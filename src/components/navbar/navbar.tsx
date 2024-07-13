@@ -1,4 +1,4 @@
-import Drawer from '@material-ui/core/Drawer';
+
 import React, { useContext, useState } from 'react';
 import { AiOutlineCloseCircle } from 'react-icons/ai';
 import { BsFillMoonFill, BsFillSunFill } from 'react-icons/bs';
@@ -10,6 +10,7 @@ import { ThemeContext } from '../../contexts/theme-context';
 import { headerData } from '../../data/header-data';
 import styles from '../../styles/navbar.module.css';
 import Link from '../link';
+import Drawer from '@mui/material/Drawer';
 
 function Navbar() {
     const { theme, setHandleDrawer, changeTheme, isDark } = useContext(ThemeContext);

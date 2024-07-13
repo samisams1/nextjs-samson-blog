@@ -1,4 +1,4 @@
-import { About, Contacts, Navbar } from '@/components';
+import { About, BackToTop, Contacts, Education, Experience, Landing, Navbar, Projects, Skills } from '@/components';
 import React from 'react';
 
 interface BlogData {
@@ -45,8 +45,14 @@ interface HomePageProps {
 const HomePage: React.FC<HomePageProps> = ({ blogs }) => {
   return (
     <div>
-      <About/>
+      <BackToTop/>
       <Navbar/>
+      <Landing/>
+      <About/>
+      <Experience/>
+      <Skills/>
+      <Projects/>
+      <Education/>
       <Contacts/>
     </div>
   );

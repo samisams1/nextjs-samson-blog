@@ -1,23 +1,17 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Noakhali Government College',
-        course: 'Bachelor Degree',
-        startYear: '2020',
-        endYear: 'Present'
+        institution: 'Adama Science and Technology university',
+        course: 'BSC In Software Engineering',
+        startYear: 'Sept 2013',
+        endYear: 'July 2016'
     },
     {
         id: 2,
-        institution: 'Noakhali Islamia Kamil Madrasah',
+        institution: 'HileMariyam Mamo Preparatory School',
         course: 'Higher Secondary',
-        startYear: '2018',
-        endYear: '2020'
+        startYear: ' Sept 2012',
+        endYear: ' Aug 2013'
     },
-    {
-        id: 3,
-        institution: 'Baitus Saif Islamia Madrasah',
-        course: 'Secondary School',
-        startYear: '2008',
-        endYear: '2018'
-    },
+
 ]
