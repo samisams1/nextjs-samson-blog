@@ -14,16 +14,16 @@ export const projectsData = [
         projectName: 'Ayla Networks',
         projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
         tags: ['React', 'SAAS', 'React Bootstrap'],
-        code: '',
+        code: 'https://github.com/samisams1',
         demo: 'https://www.aylanetworks.com/',
         image: six
     },
     {
         id: 2,
-        projectName: 'Jewelry Niche',
+        projectName: 'Project Managment System',
         projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
         tags: ['React', 'Express', 'Material Ui'],
-        code: 'https://github.com/said7388/jewelry-niche',
+        code: 'https://github.com/samisams1/project-management-system',
         demo: 'https://pandora-web.netlify.app/',
         image: seven
     },
@@ -32,7 +32,7 @@ export const projectsData = [
         projectName: 'Travel Agency',
         projectDesc: 'This project about travel agency management.',
         tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
+        code: 'https://github.com/samisams1',
         demo: 'https://travel-agency-fc58b.web.app/',
         image: eight
     },
@@ -41,7 +41,7 @@ export const projectsData = [
         projectName: 'Android Patient Tracker',
         projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
         tags: ['Flutter', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/samisams1',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: four
     },
@@ -50,7 +50,7 @@ export const projectsData = [
         projectName: 'E-Commerce App',
         projectDesc: 'A Simple E-commerce application',
         tags: ['React Native', 'Firebase'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/samisams1',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: five
     },
@@ -59,7 +59,7 @@ export const projectsData = [
         projectName: 'Uber Lite',
         projectDesc: 'Uber clone',
         tags: ['Flutter'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/samisams1',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: one
     },
@@ -68,7 +68,7 @@ export const projectsData = [
         projectName: 'Stock Market App',
         projectDesc: 'A simple stock market API app',
         tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/samisams1',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: two
     },
@@ -77,7 +77,7 @@ export const projectsData = [
         projectName: 'Car Pooling System',
         projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
         tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/samisams1',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: three
     },
