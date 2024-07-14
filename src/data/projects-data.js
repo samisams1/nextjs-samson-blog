@@ -24,7 +24,7 @@ export const projectsData = [
         projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
         tags: ['React', 'Express', 'Material Ui'],
         code: 'https://github.com/samisams1/project-management-system',
-        demo: 'https://pandora-web.netlify.app/',
+        demo: 'https://pm.nilesoftdemo.com/home',
         image: seven
     },
     {
