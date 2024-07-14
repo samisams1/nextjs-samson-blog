@@ -21,8 +21,8 @@ export const projectsData = [
     {
         id: 2,
         projectName: 'Project Managment System',
-        projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
-        tags: ['React', 'Express', 'Material Ui'],
+        projectDesc: 'This project is a project management system to oversee projects across multiple sites.',
+        tags: ['Javascript', 'Laravel', 'vue'],
         code: 'https://github.com/samisams1/project-management-system',
         demo: 'https://pm.nilesoftdemo.com/home',
         image: seven
