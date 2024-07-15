@@ -29,11 +29,11 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Travel Agency',
-        projectDesc: 'This project about travel agency management.',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/samisams1',
-        demo: 'https://travel-agency-fc58b.web.app/',
+        projectName: 'JobPortal',
+        projectDesc: 'The projects job portal allows employers to search for, hire, and receive applications from candidates. .',
+        tags: ['React', 'Typescript','tailwind css', 'Material Ui','Node js','sequelize','Docker'],
+        code: 'https://github.com/samisams1/jobportal',
+        demo: 'https://jobportal.nilesoftdemo.com',
         image: eight
     },
     {
