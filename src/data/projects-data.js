@@ -1,4 +1,4 @@
-import eight from '../assets/svg/projects/eight.svg'
+import eight from '../assets/svg/projects/eight.png'
 import five from '../assets/svg/projects/five.svg'
 import four from '../assets/svg/projects/four.svg'
 import one from '../assets/svg/projects/one.svg'
