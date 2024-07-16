@@ -1,4 +1,5 @@
 import { About, BackToTop, Contacts, Education, Experience, Landing, Navbar, Projects, Skills } from '@/components';
+import ParticlesBackground from '@/components/particlesBackground/ParticlesBackground';
 import React from 'react';
 
 interface BlogData {
